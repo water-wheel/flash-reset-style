@@ -36,19 +36,19 @@ a {
     }
 }
 
-input,
-select,
-button,
-textarea {
-    background-color: transparent;
-    outline: none;
-    border: 0;
-    -webkit-appearance: none;
-    font-family: inherit; 
-}
-input::-webkit-input-placeholder { 
-  color: #bdbdbd;
-}
+// input,
+// select,
+// button,
+// textarea {
+//     background-color: transparent;
+//     outline: none;
+//     border: 0;
+//     -webkit-appearance: none;
+//     font-family: inherit; 
+// }
+// input::-webkit-input-placeholder { 
+//   color: #bdbdbd;
+// }
 button[disabled], html input[disabled] {
     cursor: default; 
 }
